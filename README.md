@@ -1,4 +1,4 @@
-# [Storyblok](https://www.storyblok.com/) + [Nuxt](https://nuxtjs.org/) + [Helpdev](https://helpdev.org) = [Aethec](https://aethec.org)
+# [Storyblok](https://www.storyblok.com/) + [Nuxt](https://nuxtjs.org/) + [Helpdev](https://helpdev.org) = [Saludmision](https://saludmision.org)
 
 ## Configuration Steps
 
