@@ -1,7 +1,8 @@
 # [Storyblok](https://www.storyblok.com/) + [Nuxt](https://nuxtjs.org/) + [Helpdev](https://helpdev.org) = [Saludmision](https://saludmision.org)
 
 ## Websites
-- https://components.helpdev.org ~> Components used across other Helpdev websites
+- https://saludmision.org ~> Main Website of this repository
+- https://components.helpdev.org ~> Components used in this repository and across other Helpdev websites
 
 ## Configuration Steps
 
